@@ -1,22 +1,20 @@
 const Masthead = () =>{
     return(
     <>
-      <header className="masthead">
+      <header className="masthead masthead-bg">
       <div className="container px-5">
         <div className="row gx-5 align-items-center">
           <div className="col-lg-6">
-            {/* Masthead text and app badges*/}
             <div className="mb-5 mb-lg-0 text-center text-lg-start">
-              <h1 className="display-1 lh-1 mb-3">Showcase your app beautifully.</h1>
-              <p className="lead fw-normal text-muted mb-5">Launch your mobile app landing page faster with this free, open source theme from Start Bootstrap!</p>
+              <h1 className="display-1 lh-1 mb-3">Budgeting Made Easy.</h1>
+              <p className="lead fw-normal text-muted mb-5">The power of an all-in-one Financial Managment tool, in the palm of your hands. Get Started Today</p>
               <div className="d-flex flex-column flex-lg-row align-items-center">
-                <a className="me-lg-3 mb-4 mb-lg-0" href="#!"><img className="app-badge" src="assets/img/google-play-badge.svg" alt="..." /></a>
-                <a href="#!"><img className="app-badge" src="assets/img/app-store-badge.svg" alt="..." /></a>
+                <a className="me-lg-3 mb-4 mb-lg-0" href="#!"><img className="app-badge" src="assets/img/google-play-badge.svg" /></a>
+                <a href="#!"><img className="app-badge" src="assets/img/app-store-badge.svg"  /></a>
               </div>
             </div>
           </div>
           <div className="col-lg-6">
-            {/* Masthead device mockup feature*/}
             <div className="masthead-device-mockup">
               <svg className="circle" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
                 <defs>
@@ -31,11 +29,7 @@ const Masthead = () =>{
               <div className="device-wrapper">
                 <div className="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">
                   <div className="screen bg-black">
-                    {/* PUT CONTENTS HERE:*/}
-                    {/* * * This can be a video, image, or just about anything else.*/}
-                    {/* * * Set the max width of your media to 100% and the height to*/}
-                    {/* * * 100% like the demo example below.*/}
-                    <video muted="muted" autoPlay loop style={{maxWidth: '100%', height: '100%'}}><source src="assets/img/demo-screen.mp4" type="video/mp4" /></video>
+                    <video muted="muted" autoPlay loop style={{maxWidth: '100%', height: '100%'}}><source src="assets/video/app-video.mov" type="video/mp4" /></video>
                   </div>
                 </div>
               </div>
