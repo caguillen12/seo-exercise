@@ -2,7 +2,7 @@ const Header = () => {
    return(
     <nav className="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
     <div className="container px-5">
-      <a className="navbar-brand fw-bold" href="#page-top">Applet</a>
+      <a className="navbar-brand fw-bold" href="#page-top">Rally</a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i className="bi-list" />
