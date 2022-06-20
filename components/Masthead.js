@@ -9,8 +9,8 @@ const Masthead = () =>{
               <h1 className="display-1 lh-1 mb-3">Budgeting Made Easy.</h1>
               <p className="lead fw-normal text-muted mb-5">The power of an all-in-one Financial Managment tool, in the palm of your hands. Get Started Today</p>
               <div className="d-flex flex-column flex-lg-row align-items-center">
-                <a className="me-lg-3 mb-4 mb-lg-0" href="#!"><img className="app-badge" src="assets/img/google-play-badge.svg" /></a>
-                <a href="#!"><img className="app-badge" src="assets/img/app-store-badge.svg"  /></a>
+                <a className="me-lg-3 mb-4 mb-lg-0" href="#!"><img className="app-badge" src="assets/img/google-play-badge.svg" width="162" height="48" alt="google play"/></a>
+                <a href="#!"><img className="app-badge" src="assets/img/app-store-badge.svg"  width="160" height="48" alt="app store" /></a>
               </div>
             </div>
           </div>

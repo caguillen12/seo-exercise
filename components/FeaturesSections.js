@@ -10,7 +10,7 @@ const FeaturesSection = () => {
                 <div className="col-md-6 mb-5">
                   <div className="text-center">
                     <i className="bi-phone icon-feature text-gradient d-block mb-3" />
-                    <h3 className="font-alt">Mobile Ready</h3>
+                    <h2 className="font-alt">Mobile Ready</h2>
                     <p className="text-muted mb-0">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
                   </div>
                 </div>

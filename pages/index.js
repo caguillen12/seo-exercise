@@ -8,6 +8,8 @@ import CTAFold from "../components/CTAFold"
 import SectionFold2 from "../components/SectionFold2"
 import PageLayout from "../components/PageLayout"
 
+// export const config={unstable_runtimeJS:false}
+
 export default function Home() {
   return (
     <PageLayout>
