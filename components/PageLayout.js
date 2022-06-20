@@ -10,13 +10,13 @@ const PageLayout = (props) => {
       <meta name="viewport" content="width=device-width"/>
     	<meta charSet="utf-8" />
       <meta property="og:type" content="website"/>
-      <meta property="og:url" content="https://seo-exercise-bnl78hdse-caguillen12.vercel.app/"/>
+      <meta property="og:url" content="https://seo-exercise.vercel.app/"/>
       <meta property="og:title" content="Budgeting Made Easy" key="title" />
       <meta property="og:description" content="All-in-One Financial Management Tool"/>
       <meta property="og:image" content="https://ik.imagekit.io/gclk8b7ii/banner-image_tEQtSDIdi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655659010257"/>
 
       <meta property="twitter:card" content="summary_large_image"/>
-      <meta property="twitter:url" content="https://seo-exercise-bnl78hdse-caguillen12.vercel.app/"/>
+      <meta property="twitter:url" content="https://seo-exercise.vercel.app/"/>
       <meta property="twitter:title" content="Budgeting Made Easy."/>
       <meta property="twitter:description" content="All-in-One Financial Management Tool"/>
       <meta property="twitter:image" content="https://ik.imagekit.io/gclk8b7ii/banner-image_tEQtSDIdi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655659010257"/>
