@@ -8142,7 +8142,7 @@ color:rgba(var(--bs-body-color-rgb),var(--bs-text-opacity))!important
 
 .text-muted {
 --bs-text-opacity:1;
-color:#6c757d!important
+color:#000000!important
 }
 
 .text-black-50 {
