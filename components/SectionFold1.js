@@ -11,7 +11,7 @@ const SectionFold1 = () => {
             </p>
           </div>
           <div className="col-sm-8 col-md-6">
-            <div className="px-5 px-sm-0"><img className="img-fluid rounded-circle" src="https://source.unsplash.com/u8Jn2rzYIps/900x900"  width="288" height="288" alt="circle image"/></div>
+            <div className="px-5 px-sm-0"><img className="img-fluid rounded-circle" src="https://ik.imagekit.io/gclk8b7ii/rounded-image_fWgeGrDsv.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1655701769690"  width="288" height="288" alt="circle image"/></div>
           </div>
         </div>
       </div>
