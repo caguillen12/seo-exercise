@@ -9,7 +9,7 @@ const PageLayout = (props) => {
       <meta name="description" content="All-in-One Financial Management Tool"></meta> */}
       <meta name="viewport" content="width=device-width"/>
     	<meta charSet="utf-8" />
-      <meta property="og:type" content="website"/>
+      <meta property="og:type" content="Rally"/>
       <meta property="og:url" content="https://seo-exercise.vercel.app/"/>
       <meta property="og:title" content="Budgeting Made Easy" key="title" />
       <meta property="og:description" content="All-in-One Financial Management Tool"/>
